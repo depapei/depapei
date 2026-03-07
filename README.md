@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=depapei&label=Profile%20views&color=0e75b6&style=flat" alt="depapei" /> </p>
 
-- 🔭 I’m currently working on Freelance Website Developer [Kaia Bakery](https://github.com/depapei/kaia-demo)
+- 🔭 I’m currently working on Freelance Website Developer [Kaia Bakery](https://kaia-demo.vercel.app/)
 
 - 🌱 I’m currently learning **Golang, Nextjs / Reactjs, Vite, Capacitor**
 
