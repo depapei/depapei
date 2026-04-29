@@ -4,14 +4,12 @@ A fullstack developer from Indonesia focused on building web applications and so
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<p align="left">
   <a href="https://www.linkedin.com/in/rangga-andika-wibisana-251129170/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30" />
   </a>
   <a href="https://www.hackerrank.com/ranggaa606">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" height="30" />
   </a>
-</p>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
