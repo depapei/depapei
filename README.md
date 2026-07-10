@@ -12,7 +12,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" alt="LinkedIn" width="40" height="30" />
   </a>
 </p>
-<h1 align="left">Stacks</h1><hr/>
+<h1 align="left">Stacks</h1>
 <h3 align="left">Frontend</h3>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=nextjs,react,vite,html,js,css,tailwind,ts,bootstrap,figma" />
