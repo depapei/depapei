@@ -37,7 +37,7 @@ For my backend projects, I use two different tech stacks depending on the requir
 </p>
 There are several development kits or tools that I use as my primary development tools:
 <ol>
-<li>Visual Studio Code for a code editor</li>
+<li>Visual Studio Code for code editor, terminal, file explorer (main IDE)</li>
 <li>Git for version control</li>
 <li>Node.js for the runtime engine</li>
 <li>Node Package Manager (NPM) for the package manager and runtime controller</li>
