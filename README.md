@@ -1,17 +1,28 @@
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=depapei&" alt="depapei" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=depapei&" alt="depapei-git-streak-stats" /></p>
 <h3>Hi 👋, I’m Rangga Andika Wibisana,</h3>
-A fullstack developer from Indonesia focused on building web applications and solving real problems. I’m currently working as a freelance developer on a Lele Krispy POS project while improving my skills in Golang, Next.js, and React. I share my work on GitHub and enjoy discussing web development, and outside of coding I play guitar, piano, bass, and drums.
+<p>A fullstack developer from Indonesia focused on building web applications and solving real problems. I’m currently working as a freelance developer on a Lele Krispy POS project while improving my skills in Golang, Next.js, and React. I share my work on GitHub and enjoy discussing web development, and outside of coding I play guitar, piano, bass, and drums.</p>
+<p>Check out my portfolio <span><a href="https://rangga-dev.my.id">here</a></span></p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/rangga-andika-wibisana-251129170/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30" />
   </a>
+  <a href="https://www.instagram.com/ranggaffff" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="LinkedIn" width="40" height="30" />
+  </a>
 </p>
-
-<h3 align="left">Languages and Tools</h3>
-<!-- <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></p> -->
+<h1 align="left">Stacks</h1><hr/>
+<h3 align="left">Frontend</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=bash,bootstrap,figma,git,go,html,js,mysql,nextjs,nodejs,php,postgres,postman,react,tailwind,ts" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,vite,html,js,css,tailwind,ts,bootstrap,figma" />
+</p>
+<h3 align="left">Backend</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,prisma,php,go,nodejs,laravel" />
+</p>
+<h3 align="left">Tools & Utilities</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=bash,git,nodejs,postman,npm,vscode" />
 </p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=depapei&label=Profile%20views&color=0e75b6&style=flat" alt="depapei" /></p>
