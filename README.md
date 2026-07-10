@@ -6,10 +6,10 @@
 <h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/rangga-andika-wibisana-251129170/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="30" />
   </a>
   <a href="https://www.instagram.com/ranggaffff" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="LinkedIn" width="40" height="30" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="30" />
   </a>
 </p>
 <h1 align="left">Stacks</h1>
