@@ -23,7 +23,7 @@ Outside of coding I play musical instrument such as guitar, piano, bass, and dru
 <p align="left">
 <img src="https://skillicons.dev/icons?i=nextjs,react,vite,html,js,css,tailwind,ts,bootstrap,figma" />
 </p>
-For frontend projects, I’m used to working with ReactJS using the Next.js framework and several Node.js libraries, including Ant Design (for components), Axios for API interactions (interceptors, headers, types, etc.), and Tanstack and React-Query (for fetching, cache validation, and mutations). For styling, I use Tailwind more often than Bootstrap because I find Tailwind to be much more customizable than Bootstrap. For UI/UX design, I use Figma.
+For frontend projects, I’m used to working with ReactJS using the Next.js framework and several Node.js libraries, including Ant Design (for components), Axios for API instance (interceptors, headers, types, etc.), and Tanstack and React-Query (for fetching, cache validation, and mutations). For styling, I use Tailwind more often than Bootstrap because I find Tailwind to be much more customizable than Bootstrap. For UI/UX design, I use Figma.
 
 <h3 align="left">Backend</h3>
 <p align="left">
