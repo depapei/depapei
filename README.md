@@ -1,4 +1,5 @@
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=depapei&" alt="depapei-git-streak-stats" /></p>
+![ID Card](id-card.png)
+
 <h3>Hi 👋, I’m Rangga Andika Wibisana,</h3>
 <p>I am a Fresh Graduate Information Systems student at Bina Nusantara University also a passionate developer with a strong focus on building robust backend logic and clean, intuitive user interfaces. I believe that great software is born from the perfect harmony of efficient server-side architecture and accessible frontend design.
 Currently, I am working as an Freelance Developer, where I actively use Next.js and TypeScript for frontend development, alongside Go (Gin framework) for building scalable APIs. I am always eager to learn new technologies and tackle complex problems.
@@ -46,3 +47,4 @@ There are several development kits or tools that I use as my primary development
 <p>I'm currently very interested in learning mobile development stacks like Kotlin and Swift. If you'd like to invite me to study with you, hit me up via email or any platform you prefer.</p>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=depapei&label=Profile%20views&color=0e75b6&style=flat" alt="depapei" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=depapei&" alt="depapei-git-streak-stats" /></p>
