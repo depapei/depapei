@@ -1,5 +1,5 @@
 <a href="https://rangga-dev.my.id">
-  <img src="card-red.png" alt="ID Card" style="width: 100%; height: auto;">
+  <img src="card.png" alt="ID Card" style="width: 100%; height: auto;">
 </a>
 
 <h3>Hi 👋, I’m Rangga Andika Wibisana,</h3>
