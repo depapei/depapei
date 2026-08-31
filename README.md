@@ -3,9 +3,8 @@
 </a>
 
 <h3>Hi 👋, I’m Rangga Andika Wibisana,</h3>
-<p>I am a Fresh Graduate Information Systems student at Bina Nusantara University also a passionate developer with a strong focus on building robust backend logic and clean, intuitive user interfaces. I believe that great software is born from the perfect harmony of efficient server-side architecture and accessible frontend design.
-Currently, I am working as an Freelance Developer, where I actively use Next.js and TypeScript for frontend development, alongside Go (Gin framework) for building scalable APIs. I am always eager to learn new technologies and tackle complex problems.
-Outside of coding I play musical instrument such as guitar, piano, bass, and drums to keep my sanity.</p>
+<p>Full-Stack Software Engineer experienced in building end-to-end web applications using React, Next.js, TypeScript, Golang, and PostgreSQL. Experienced in translating business requirements into responsive user interfaces, REST APIs, and relational database designs, with hands-on involvement across the software development lifecycle.</p>
+<p>Outside of coding I play musical instrument such as guitar, piano, bass, and drums to keep my sanity. 😭</p>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
@@ -30,7 +29,7 @@ For frontend projects, I’m used to working with ReactJS using the Next.js fram
 <p align="left">
 <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,prisma,php,go,nodejs,laravel" />
 </p>
-For my backend projects, I use two different tech stacks depending on the requirements. For performance-critical projects, I typically use the Go programming language (Golang), GORM (Go ORM), and PostgreSQL (database). However, for rapid development projects, I use the TypeScript programming language, Next.js’s built-in API Routes with Prisma (ORM), and PostgreSQL (database).
+For my backend projects, I usually use two different tech stacks depending on the requirements. For performance-critical projects, I typically use the Go programming language (Golang), GORM (Go ORM), and PostgreSQL (database). However, for rapid development projects, I use the TypeScript programming language, Next.js’s built-in API Routes with Prisma (ORM), and PostgreSQL (database).
 
 <h3 align="left">Tools & Utilities</h3>
 <p align="left">
